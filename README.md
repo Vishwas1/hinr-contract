@@ -1,7 +1,7 @@
 # Harmony INR 
 
 
-## Pre-quisite
+## Pre-requisite
 
 - nodejs
 - truffle
